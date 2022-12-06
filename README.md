@@ -1,4 +1,4 @@
-# a simple site for testing something
+# a simple site for testing something shit
 #### Тест 1: Защита сайта паролем.
 Итог: неудачно. GitHub Pages не поддерживает открытие php страниц.
 ____
